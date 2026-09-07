@@ -2,3 +2,6 @@ skyblue_costco.mp4
 skyblue_costco_audio.mp3
 *.part
 __pycache__/
+
+# CI 檔需 workflow scope 才能推，暫留本地
+.github/
