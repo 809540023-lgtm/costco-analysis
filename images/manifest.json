@@ -1,0 +1,1625 @@
+{
+ "video_id": "FB_1993293861646570",
+ "video_duration_sec": 16260.3,
+ "sample_points": "0.30,0.55,0.80",
+ "verified": false,
+ "frames": [
+  {
+   "index": 1,
+   "product": "Happy Turnハッピーターン仙貝餅乾 50週年限定家庭號ASR：快樂",
+   "segment_start": 200,
+   "segment_end": 827,
+   "candidates": [
+    {
+     "file": "01_Happy Turnハッピーターン仙貝餅乾 50週年限定家庭號ASR：快樂_p30.jpg",
+     "frame_time": 388,
+     "relative_pos": 0.3,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    },
+    {
+     "file": "01_Happy Turnハッピーターン仙貝餅乾 50週年限定家庭號ASR：快樂_p55.jpg",
+     "frame_time": 544,
+     "relative_pos": 0.55,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    },
+    {
+     "file": "01_Happy Turnハッピーターン仙貝餅乾 50週年限定家庭號ASR：快樂_p80.jpg",
+     "frame_time": 701,
+     "relative_pos": 0.8,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    }
+   ],
+   "status": "ok"
+  },
+  {
+   "index": 2,
+   "product": "東京香蕉 × 樂天小熊餅乾コアラのマーチ聯名焦糖香蕉夾心餅乾見ぃつけたっ",
+   "segment_start": 856,
+   "segment_end": 1213,
+   "candidates": [
+    {
+     "file": "02_東京香蕉 × 樂天小熊餅乾コアラのマーチ聯名焦糖香蕉夾心餅乾見ぃつけたっ_p30.jpg",
+     "frame_time": 963,
+     "relative_pos": 0.3,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    },
+    {
+     "file": "02_東京香蕉 × 樂天小熊餅乾コアラのマーチ聯名焦糖香蕉夾心餅乾見ぃつけたっ_p55.jpg",
+     "frame_time": 1052,
+     "relative_pos": 0.55,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    },
+    {
+     "file": "02_東京香蕉 × 樂天小熊餅乾コアラのマーチ聯名焦糖香蕉夾心餅乾見ぃつけたっ_p80.jpg",
+     "frame_time": 1141,
+     "relative_pos": 0.8,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    }
+   ],
+   "status": "ok"
+  },
+  {
+   "index": 3,
+   "product": "小熊維尼 100 週年 × 東京香蕉迪士尼聯名折疊購物袋",
+   "segment_start": 1214,
+   "segment_end": 1461,
+   "candidates": [
+    {
+     "file": "03_小熊維尼 100 週年 × 東京香蕉迪士尼聯名折疊購物袋_p30.jpg",
+     "frame_time": 1288,
+     "relative_pos": 0.3,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    },
+    {
+     "file": "03_小熊維尼 100 週年 × 東京香蕉迪士尼聯名折疊購物袋_p55.jpg",
+     "frame_time": 1349,
+     "relative_pos": 0.55,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    },
+    {
+     "file": "03_小熊維尼 100 週年 × 東京香蕉迪士尼聯名折疊購物袋_p80.jpg",
+     "frame_time": 1411,
+     "relative_pos": 0.8,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    }
+   ],
+   "status": "ok"
+  },
+  {
+   "index": 4,
+   "product": "小熊維尼 100 週年 × 東京香蕉迪士尼聯名化妝包／萬用包",
+   "segment_start": 1462,
+   "segment_end": 1610,
+   "candidates": [
+    {
+     "file": "04_小熊維尼 100 週年 × 東京香蕉迪士尼聯名化妝包／萬用包_p30.jpg",
+     "frame_time": 1506,
+     "relative_pos": 0.3,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    },
+    {
+     "file": "04_小熊維尼 100 週年 × 東京香蕉迪士尼聯名化妝包／萬用包_p55.jpg",
+     "frame_time": 1543,
+     "relative_pos": 0.55,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    },
+    {
+     "file": "04_小熊維尼 100 週年 × 東京香蕉迪士尼聯名化妝包／萬用包_p80.jpg",
+     "frame_time": 1580,
+     "relative_pos": 0.8,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    }
+   ],
+   "status": "ok"
+  },
+  {
+   "index": 5,
+   "product": "吉伊卡哇 × 東京香蕉 夾心餅乾三明治香蕉牛奶口味12 枚",
+   "segment_start": 1621,
+   "segment_end": 1911,
+   "candidates": [
+    {
+     "file": "05_吉伊卡哇 × 東京香蕉 夾心餅乾三明治香蕉牛奶口味12 枚_p30.jpg",
+     "frame_time": 1708,
+     "relative_pos": 0.3,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    },
+    {
+     "file": "05_吉伊卡哇 × 東京香蕉 夾心餅乾三明治香蕉牛奶口味12 枚_p55.jpg",
+     "frame_time": 1780,
+     "relative_pos": 0.55,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    },
+    {
+     "file": "05_吉伊卡哇 × 東京香蕉 夾心餅乾三明治香蕉牛奶口味12 枚_p80.jpg",
+     "frame_time": 1853,
+     "relative_pos": 0.8,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    }
+   ],
+   "status": "ok"
+  },
+  {
+   "index": 6,
+   "product": "UHA味覺糖 鐵＋葉酸＋膠原蛋白軟糖サプリぷっちょ，Costco 特規 220",
+   "segment_start": 1913,
+   "segment_end": 2331,
+   "candidates": [
+    {
+     "file": "06_UHA味覺糖 鐵＋葉酸＋膠原蛋白軟糖サプリぷっちょ，Costco 特規 220_p30.jpg",
+     "frame_time": 2038,
+     "relative_pos": 0.3,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    },
+    {
+     "file": "06_UHA味覺糖 鐵＋葉酸＋膠原蛋白軟糖サプリぷっちょ，Costco 特規 220_p55.jpg",
+     "frame_time": 2142,
+     "relative_pos": 0.55,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    },
+    {
+     "file": "06_UHA味覺糖 鐵＋葉酸＋膠原蛋白軟糖サプリぷっちょ，Costco 特規 220_p80.jpg",
+     "frame_time": 2247,
+     "relative_pos": 0.8,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    }
+   ],
+   "status": "ok"
+  },
+  {
+   "index": 7,
+   "product": "愛麗思IRIS Foods3 種起司燉飯／即食粥沖泡即食21 食",
+   "segment_start": 2332,
+   "segment_end": 2713,
+   "candidates": [
+    {
+     "file": "07_愛麗思IRIS Foods3 種起司燉飯／即食粥沖泡即食21 食_p30.jpg",
+     "frame_time": 2446,
+     "relative_pos": 0.3,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    },
+    {
+     "file": "07_愛麗思IRIS Foods3 種起司燉飯／即食粥沖泡即食21 食_p55.jpg",
+     "frame_time": 2541,
+     "relative_pos": 0.55,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    },
+    {
+     "file": "07_愛麗思IRIS Foods3 種起司燉飯／即食粥沖泡即食21 食_p80.jpg",
+     "frame_time": 2636,
+     "relative_pos": 0.8,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    }
+   ],
+   "status": "ok"
+  },
+  {
+   "index": 8,
+   "product": "哆啦A夢Doraemon小方巾 5 條組",
+   "segment_start": 2714,
+   "segment_end": 2984,
+   "candidates": [
+    {
+     "file": "08_哆啦A夢Doraemon小方巾 5 條組_p30.jpg",
+     "frame_time": 2795,
+     "relative_pos": 0.3,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    },
+    {
+     "file": "08_哆啦A夢Doraemon小方巾 5 條組_p55.jpg",
+     "frame_time": 2862,
+     "relative_pos": 0.55,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    },
+    {
+     "file": "08_哆啦A夢Doraemon小方巾 5 條組_p80.jpg",
+     "frame_time": 2930,
+     "relative_pos": 0.8,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    }
+   ],
+   "status": "ok"
+  },
+  {
+   "index": 9,
+   "product": "史努比Snoopy抗菌枕頭套 2 入",
+   "segment_start": 2985,
+   "segment_end": 3186,
+   "candidates": [
+    {
+     "file": "09_史努比Snoopy抗菌枕頭套 2 入_p30.jpg",
+     "frame_time": 3045,
+     "relative_pos": 0.3,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    },
+    {
+     "file": "09_史努比Snoopy抗菌枕頭套 2 入_p55.jpg",
+     "frame_time": 3095,
+     "relative_pos": 0.55,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    },
+    {
+     "file": "09_史努比Snoopy抗菌枕頭套 2 入_p80.jpg",
+     "frame_time": 3145,
+     "relative_pos": 0.8,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    }
+   ],
+   "status": "ok"
+  },
+  {
+   "index": 10,
+   "product": "立頓Lipton冷泡三角立體茶包 3 種口味 72 包",
+   "segment_start": 3188,
+   "segment_end": 3461,
+   "candidates": [
+    {
+     "file": "10_立頓Lipton冷泡三角立體茶包 3 種口味 72 包_p30.jpg",
+     "frame_time": 3269,
+     "relative_pos": 0.3,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    },
+    {
+     "file": "10_立頓Lipton冷泡三角立體茶包 3 種口味 72 包_p55.jpg",
+     "frame_time": 3338,
+     "relative_pos": 0.55,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    },
+    {
+     "file": "10_立頓Lipton冷泡三角立體茶包 3 種口味 72 包_p80.jpg",
+     "frame_time": 3406,
+     "relative_pos": 0.8,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    }
+   ],
+   "status": "ok"
+  },
+  {
+   "index": 11,
+   "product": "UHA味覺糖 葉黃素夾心軟糖芒果口味180 粒／90 天份",
+   "segment_start": 3462,
+   "segment_end": 3810,
+   "candidates": [
+    {
+     "file": "11_UHA味覺糖 葉黃素夾心軟糖芒果口味180 粒／90 天份_p30.jpg",
+     "frame_time": 3566,
+     "relative_pos": 0.3,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    },
+    {
+     "file": "11_UHA味覺糖 葉黃素夾心軟糖芒果口味180 粒／90 天份_p55.jpg",
+     "frame_time": 3653,
+     "relative_pos": 0.55,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    },
+    {
+     "file": "11_UHA味覺糖 葉黃素夾心軟糖芒果口味180 粒／90 天份_p80.jpg",
+     "frame_time": 3740,
+     "relative_pos": 0.8,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    }
+   ],
+   "status": "ok"
+  },
+  {
+   "index": 12,
+   "product": "UHA味覺糖 綜合維他命夾心軟糖 11 種葡萄柚口味180 粒／90 天份",
+   "segment_start": 3811,
+   "segment_end": 4121,
+   "candidates": [
+    {
+     "file": "12_UHA味覺糖 綜合維他命夾心軟糖 11 種葡萄柚口味180 粒／90 天份_p30.jpg",
+     "frame_time": 3904,
+     "relative_pos": 0.3,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    },
+    {
+     "file": "12_UHA味覺糖 綜合維他命夾心軟糖 11 種葡萄柚口味180 粒／90 天份_p55.jpg",
+     "frame_time": 3981,
+     "relative_pos": 0.55,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    },
+    {
+     "file": "12_UHA味覺糖 綜合維他命夾心軟糖 11 種葡萄柚口味180 粒／90 天份_p80.jpg",
+     "frame_time": 4059,
+     "relative_pos": 0.8,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    }
+   ],
+   "status": "ok"
+  },
+  {
+   "index": 13,
+   "product": "草莓凍乾巧克力 3 種白巧克力／牛奶巧克力／草莓巧克力410g",
+   "segment_start": 4121,
+   "segment_end": 4372,
+   "candidates": [
+    {
+     "file": "13_草莓凍乾巧克力 3 種白巧克力／牛奶巧克力／草莓巧克力410g_p30.jpg",
+     "frame_time": 4196,
+     "relative_pos": 0.3,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    },
+    {
+     "file": "13_草莓凍乾巧克力 3 種白巧克力／牛奶巧克力／草莓巧克力410g_p55.jpg",
+     "frame_time": 4259,
+     "relative_pos": 0.55,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    },
+    {
+     "file": "13_草莓凍乾巧克力 3 種白巧克力／牛奶巧克力／草莓巧克力410g_p80.jpg",
+     "frame_time": 4321,
+     "relative_pos": 0.8,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    }
+   ],
+   "status": "ok"
+  },
+  {
+   "index": 14,
+   "product": "東京香蕉 × 奇奇蒂蒂チップとデール棉麻化妝包",
+   "segment_start": 4372,
+   "segment_end": 4557,
+   "candidates": [
+    {
+     "file": "14_東京香蕉 × 奇奇蒂蒂チップとデール棉麻化妝包_p30.jpg",
+     "frame_time": 4427,
+     "relative_pos": 0.3,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    },
+    {
+     "file": "14_東京香蕉 × 奇奇蒂蒂チップとデール棉麻化妝包_p55.jpg",
+     "frame_time": 4473,
+     "relative_pos": 0.55,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    },
+    {
+     "file": "14_東京香蕉 × 奇奇蒂蒂チップとデール棉麻化妝包_p80.jpg",
+     "frame_time": 4520,
+     "relative_pos": 0.8,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    }
+   ],
+   "status": "ok"
+  },
+  {
+   "index": 15,
+   "product": "東京香蕉 × 奇奇蒂蒂チップとデール巧克力香蕉夾心餅乾紙盒 8 入／鐵盒",
+   "segment_start": 4558,
+   "segment_end": 5001,
+   "candidates": [
+    {
+     "file": "15_東京香蕉 × 奇奇蒂蒂チップとデール巧克力香蕉夾心餅乾紙盒 8 入／鐵盒_p30.jpg",
+     "frame_time": 4690,
+     "relative_pos": 0.3,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    },
+    {
+     "file": "15_東京香蕉 × 奇奇蒂蒂チップとデール巧克力香蕉夾心餅乾紙盒 8 入／鐵盒_p55.jpg",
+     "frame_time": 4801,
+     "relative_pos": 0.55,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    },
+    {
+     "file": "15_東京香蕉 × 奇奇蒂蒂チップとデール巧克力香蕉夾心餅乾紙盒 8 入／鐵盒_p80.jpg",
+     "frame_time": 4912,
+     "relative_pos": 0.8,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    }
+   ],
+   "status": "ok"
+  },
+  {
+   "index": 16,
+   "product": "哈利波特聯名萬聖節造型軟糖12包入",
+   "segment_start": 5003,
+   "segment_end": 5212,
+   "candidates": [
+    {
+     "file": "16_哈利波特聯名萬聖節造型軟糖12包入_p30.jpg",
+     "frame_time": 5065,
+     "relative_pos": 0.3,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    },
+    {
+     "file": "16_哈利波特聯名萬聖節造型軟糖12包入_p55.jpg",
+     "frame_time": 5117,
+     "relative_pos": 0.55,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    },
+    {
+     "file": "16_哈利波特聯名萬聖節造型軟糖12包入_p80.jpg",
+     "frame_time": 5170,
+     "relative_pos": 0.8,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    }
+   ],
+   "status": "ok"
+  },
+  {
+   "index": 17,
+   "product": "CKCalvin Klein女用短襪5雙入",
+   "segment_start": 5215,
+   "segment_end": 5356,
+   "candidates": [
+    {
+     "file": "17_CKCalvin Klein女用短襪5雙入_p30.jpg",
+     "frame_time": 5257,
+     "relative_pos": 0.3,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    },
+    {
+     "file": "17_CKCalvin Klein女用短襪5雙入_p55.jpg",
+     "frame_time": 5292,
+     "relative_pos": 0.55,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    },
+    {
+     "file": "17_CKCalvin Klein女用短襪5雙入_p80.jpg",
+     "frame_time": 5327,
+     "relative_pos": 0.8,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    }
+   ],
+   "status": "ok"
+  },
+  {
+   "index": 18,
+   "product": "一蘭 特級雙拼豚骨拉麵5碗",
+   "segment_start": 5359,
+   "segment_end": 5649,
+   "candidates": [
+    {
+     "file": "18_一蘭 特級雙拼豚骨拉麵5碗_p30.jpg",
+     "frame_time": 5446,
+     "relative_pos": 0.3,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    },
+    {
+     "file": "18_一蘭 特級雙拼豚骨拉麵5碗_p55.jpg",
+     "frame_time": 5518,
+     "relative_pos": 0.55,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    },
+    {
+     "file": "18_一蘭 特級雙拼豚骨拉麵5碗_p80.jpg",
+     "frame_time": 5591,
+     "relative_pos": 0.8,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    }
+   ],
+   "status": "ok"
+  },
+  {
+   "index": 19,
+   "product": "Godiva 綜合牛奶巧克力360g",
+   "segment_start": 5652,
+   "segment_end": 5942,
+   "candidates": [
+    {
+     "file": "19_Godiva 綜合牛奶巧克力360g_p30.jpg",
+     "frame_time": 5739,
+     "relative_pos": 0.3,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    },
+    {
+     "file": "19_Godiva 綜合牛奶巧克力360g_p55.jpg",
+     "frame_time": 5811,
+     "relative_pos": 0.55,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    },
+    {
+     "file": "19_Godiva 綜合牛奶巧克力360g_p80.jpg",
+     "frame_time": 5884,
+     "relative_pos": 0.8,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    }
+   ],
+   "status": "ok"
+  },
+  {
+   "index": 20,
+   "product": "日本好市多 Omega-3 魚油軟糖芒果口味，兒童／大人適用",
+   "segment_start": 5944,
+   "segment_end": 6348,
+   "candidates": [
+    {
+     "file": "20_日本好市多 Omega-3 魚油軟糖芒果口味，兒童／大人適用_p30.jpg",
+     "frame_time": 6065,
+     "relative_pos": 0.3,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    },
+    {
+     "file": "20_日本好市多 Omega-3 魚油軟糖芒果口味，兒童／大人適用_p55.jpg",
+     "frame_time": 6166,
+     "relative_pos": 0.55,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    },
+    {
+     "file": "20_日本好市多 Omega-3 魚油軟糖芒果口味，兒童／大人適用_p80.jpg",
+     "frame_time": 6267,
+     "relative_pos": 0.8,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    }
+   ],
+   "status": "ok"
+  },
+  {
+   "index": 21,
+   "product": "好市多 阿拉斯加野生鮭魚油540顆，大人版",
+   "segment_start": 6350,
+   "segment_end": 6663,
+   "candidates": [
+    {
+     "file": "21_好市多 阿拉斯加野生鮭魚油540顆，大人版_p30.jpg",
+     "frame_time": 6443,
+     "relative_pos": 0.3,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    },
+    {
+     "file": "21_好市多 阿拉斯加野生鮭魚油540顆，大人版_p55.jpg",
+     "frame_time": 6522,
+     "relative_pos": 0.55,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    },
+    {
+     "file": "21_好市多 阿拉斯加野生鮭魚油540顆，大人版_p80.jpg",
+     "frame_time": 6600,
+     "relative_pos": 0.8,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    }
+   ],
+   "status": "ok"
+  },
+  {
+   "index": 22,
+   "product": "黑松露奶油濃湯10袋入",
+   "segment_start": 6664,
+   "segment_end": 6937,
+   "candidates": [
+    {
+     "file": "22_黑松露奶油濃湯10袋入_p30.jpg",
+     "frame_time": 6745,
+     "relative_pos": 0.3,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    },
+    {
+     "file": "22_黑松露奶油濃湯10袋入_p55.jpg",
+     "frame_time": 6814,
+     "relative_pos": 0.55,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    },
+    {
+     "file": "22_黑松露奶油濃湯10袋入_p80.jpg",
+     "frame_time": 6882,
+     "relative_pos": 0.8,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    }
+   ],
+   "status": "ok"
+  },
+  {
+   "index": 23,
+   "product": "藍莓堅果白巧克力脆餅12小包入",
+   "segment_start": 6939,
+   "segment_end": 7260,
+   "candidates": [
+    {
+     "file": "23_藍莓堅果白巧克力脆餅12小包入_p30.jpg",
+     "frame_time": 7035,
+     "relative_pos": 0.3,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    },
+    {
+     "file": "23_藍莓堅果白巧克力脆餅12小包入_p55.jpg",
+     "frame_time": 7115,
+     "relative_pos": 0.55,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    },
+    {
+     "file": "23_藍莓堅果白巧克力脆餅12小包入_p80.jpg",
+     "frame_time": 7195,
+     "relative_pos": 0.8,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    }
+   ],
+   "status": "ok"
+  },
+  {
+   "index": 24,
+   "product": "東京香蕉TOKYO BANANA×玩具總動員 聯名夾心餅乾10片入",
+   "segment_start": 7304,
+   "segment_end": 7586,
+   "candidates": [
+    {
+     "file": "24_東京香蕉TOKYO BANANA×玩具總動員 聯名夾心餅乾10片入_p30.jpg",
+     "frame_time": 7388,
+     "relative_pos": 0.3,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    },
+    {
+     "file": "24_東京香蕉TOKYO BANANA×玩具總動員 聯名夾心餅乾10片入_p55.jpg",
+     "frame_time": 7459,
+     "relative_pos": 0.55,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    },
+    {
+     "file": "24_東京香蕉TOKYO BANANA×玩具總動員 聯名夾心餅乾10片入_p80.jpg",
+     "frame_time": 7529,
+     "relative_pos": 0.8,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    }
+   ],
+   "status": "ok"
+  },
+  {
+   "index": 25,
+   "product": "UHA味覺糖 高級水果軟糖岡山白桃＆山梨麝香葡萄",
+   "segment_start": 7261,
+   "segment_end": 7304,
+   "candidates": [
+    {
+     "file": "25_UHA味覺糖 高級水果軟糖岡山白桃＆山梨麝香葡萄_p30.jpg",
+     "frame_time": 7273,
+     "relative_pos": 0.3,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    },
+    {
+     "file": "25_UHA味覺糖 高級水果軟糖岡山白桃＆山梨麝香葡萄_p55.jpg",
+     "frame_time": 7284,
+     "relative_pos": 0.55,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    },
+    {
+     "file": "25_UHA味覺糖 高級水果軟糖岡山白桃＆山梨麝香葡萄_p80.jpg",
+     "frame_time": 7295,
+     "relative_pos": 0.8,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    }
+   ],
+   "status": "ok"
+  },
+  {
+   "index": 26,
+   "product": "燻製起司條＆燻製鮭魚起司條8袋入",
+   "segment_start": 7831,
+   "segment_end": 8188,
+   "candidates": [
+    {
+     "file": "26_燻製起司條＆燻製鮭魚起司條8袋入_p30.jpg",
+     "frame_time": 7938,
+     "relative_pos": 0.3,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    },
+    {
+     "file": "26_燻製起司條＆燻製鮭魚起司條8袋入_p55.jpg",
+     "frame_time": 8027,
+     "relative_pos": 0.55,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    },
+    {
+     "file": "26_燻製起司條＆燻製鮭魚起司條8袋入_p80.jpg",
+     "frame_time": 8116,
+     "relative_pos": 0.8,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    }
+   ],
+   "status": "ok"
+  },
+  {
+   "index": 27,
+   "product": "日東紅茶 宇治抹茶歐蕾60包入",
+   "segment_start": 8189,
+   "segment_end": 8471,
+   "candidates": [
+    {
+     "file": "27_日東紅茶 宇治抹茶歐蕾60包入_p30.jpg",
+     "frame_time": 8273,
+     "relative_pos": 0.3,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    },
+    {
+     "file": "27_日東紅茶 宇治抹茶歐蕾60包入_p55.jpg",
+     "frame_time": 8344,
+     "relative_pos": 0.55,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    },
+    {
+     "file": "27_日東紅茶 宇治抹茶歐蕾60包入_p80.jpg",
+     "frame_time": 8414,
+     "relative_pos": 0.8,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    }
+   ],
+   "status": "ok"
+  },
+  {
+   "index": 28,
+   "product": "日本境內版胡椒鹽400g×2罐",
+   "segment_start": 8473,
+   "segment_end": 8702,
+   "candidates": [
+    {
+     "file": "28_日本境內版胡椒鹽400g×2罐_p30.jpg",
+     "frame_time": 8541,
+     "relative_pos": 0.3,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    },
+    {
+     "file": "28_日本境內版胡椒鹽400g×2罐_p55.jpg",
+     "frame_time": 8598,
+     "relative_pos": 0.55,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    },
+    {
+     "file": "28_日本境內版胡椒鹽400g×2罐_p80.jpg",
+     "frame_time": 8656,
+     "relative_pos": 0.8,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    }
+   ],
+   "status": "ok"
+  },
+  {
+   "index": 29,
+   "product": "香菇脆片／香菇乾300g",
+   "segment_start": 8703,
+   "segment_end": 9040,
+   "candidates": [
+    {
+     "file": "29_香菇脆片／香菇乾300g_p30.jpg",
+     "frame_time": 8804,
+     "relative_pos": 0.3,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    },
+    {
+     "file": "29_香菇脆片／香菇乾300g_p55.jpg",
+     "frame_time": 8888,
+     "relative_pos": 0.55,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    },
+    {
+     "file": "29_香菇脆片／香菇乾300g_p80.jpg",
+     "frame_time": 8972,
+     "relative_pos": 0.8,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    }
+   ],
+   "status": "ok"
+  },
+  {
+   "index": 30,
+   "product": "青汁100%國產有機大麥若葉，162包",
+   "segment_start": 9044,
+   "segment_end": 9370,
+   "candidates": [
+    {
+     "file": "30_青汁100%國產有機大麥若葉，162包_p30.jpg",
+     "frame_time": 9141,
+     "relative_pos": 0.3,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    },
+    {
+     "file": "30_青汁100%國產有機大麥若葉，162包_p55.jpg",
+     "frame_time": 9223,
+     "relative_pos": 0.55,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    },
+    {
+     "file": "30_青汁100%國產有機大麥若葉，162包_p80.jpg",
+     "frame_time": 9304,
+     "relative_pos": 0.8,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    }
+   ],
+   "status": "ok"
+  },
+  {
+   "index": 31,
+   "product": "高密度纖毛除塵清潔刷附自潔集塵盒A33／A33-1",
+   "segment_start": 9371,
+   "segment_end": 9781,
+   "candidates": [
+    {
+     "file": "31_高密度纖毛除塵清潔刷附自潔集塵盒A33／A33-1_p30.jpg",
+     "frame_time": 9494,
+     "relative_pos": 0.3,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    },
+    {
+     "file": "31_高密度纖毛除塵清潔刷附自潔集塵盒A33／A33-1_p55.jpg",
+     "frame_time": 9596,
+     "relative_pos": 0.55,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    },
+    {
+     "file": "31_高密度纖毛除塵清潔刷附自潔集塵盒A33／A33-1_p80.jpg",
+     "frame_time": 9699,
+     "relative_pos": 0.8,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    }
+   ],
+   "status": "ok"
+  },
+  {
+   "index": 32,
+   "product": "日本好市多限定 蒟蒻果凍4種水果口味，80入A34",
+   "segment_start": 9782,
+   "segment_end": 10090,
+   "candidates": [
+    {
+     "file": "32_日本好市多限定 蒟蒻果凍4種水果口味，80入A34_p30.jpg",
+     "frame_time": 9874,
+     "relative_pos": 0.3,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    },
+    {
+     "file": "32_日本好市多限定 蒟蒻果凍4種水果口味，80入A34_p55.jpg",
+     "frame_time": 9951,
+     "relative_pos": 0.55,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    },
+    {
+     "file": "32_日本好市多限定 蒟蒻果凍4種水果口味，80入A34_p80.jpg",
+     "frame_time": 10028,
+     "relative_pos": 0.8,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    }
+   ],
+   "status": "ok"
+  },
+  {
+   "index": 33,
+   "product": "萬聖節限定 餅乾組合動物餅乾＋新鮮巧克力玉米脆餅，16袋A35",
+   "segment_start": 10095,
+   "segment_end": 10387,
+   "candidates": [
+    {
+     "file": "33_萬聖節限定 餅乾組合動物餅乾＋新鮮巧克力玉米脆餅，16袋A35_p30.jpg",
+     "frame_time": 10182,
+     "relative_pos": 0.3,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    },
+    {
+     "file": "33_萬聖節限定 餅乾組合動物餅乾＋新鮮巧克力玉米脆餅，16袋A35_p55.jpg",
+     "frame_time": 10255,
+     "relative_pos": 0.55,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    },
+    {
+     "file": "33_萬聖節限定 餅乾組合動物餅乾＋新鮮巧克力玉米脆餅，16袋A35_p80.jpg",
+     "frame_time": 10328,
+     "relative_pos": 0.8,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    }
+   ],
+   "status": "ok"
+  },
+  {
+   "index": 34,
+   "product": "千年屋 格紋棒狀鬆餅16入獨立包裝A36",
+   "segment_start": 10444,
+   "segment_end": 10757,
+   "candidates": [
+    {
+     "file": "34_千年屋 格紋棒狀鬆餅16入獨立包裝A36_p30.jpg",
+     "frame_time": 10537,
+     "relative_pos": 0.3,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    },
+    {
+     "file": "34_千年屋 格紋棒狀鬆餅16入獨立包裝A36_p55.jpg",
+     "frame_time": 10616,
+     "relative_pos": 0.55,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    },
+    {
+     "file": "34_千年屋 格紋棒狀鬆餅16入獨立包裝A36_p80.jpg",
+     "frame_time": 10694,
+     "relative_pos": 0.8,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    }
+   ],
+   "status": "ok"
+  },
+  {
+   "index": 35,
+   "product": "低卡春雨湯組合包6口味×5包=30包A37",
+   "segment_start": 10759,
+   "segment_end": 11167,
+   "candidates": [
+    {
+     "file": "35_低卡春雨湯組合包6口味×5包=30包A37_p30.jpg",
+     "frame_time": 10881,
+     "relative_pos": 0.3,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    },
+    {
+     "file": "35_低卡春雨湯組合包6口味×5包=30包A37_p55.jpg",
+     "frame_time": 10983,
+     "relative_pos": 0.55,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    },
+    {
+     "file": "35_低卡春雨湯組合包6口味×5包=30包A37_p80.jpg",
+     "frame_time": 11085,
+     "relative_pos": 0.8,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    }
+   ],
+   "status": "ok"
+  },
+  {
+   "index": 36,
+   "product": "巧克力智郎 猴子IP巧克力餅乾27袋入A38",
+   "segment_start": 11291,
+   "segment_end": 11511,
+   "candidates": [
+    {
+     "file": "36_巧克力智郎 猴子IP巧克力餅乾27袋入A38_p30.jpg",
+     "frame_time": 11357,
+     "relative_pos": 0.3,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    },
+    {
+     "file": "36_巧克力智郎 猴子IP巧克力餅乾27袋入A38_p55.jpg",
+     "frame_time": 11412,
+     "relative_pos": 0.55,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    },
+    {
+     "file": "36_巧克力智郎 猴子IP巧克力餅乾27袋入A38_p80.jpg",
+     "frame_time": 11467,
+     "relative_pos": 0.8,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    }
+   ],
+   "status": "ok"
+  },
+  {
+   "index": 37,
+   "product": "寶可夢30週年聯名杯麵12杯入A39",
+   "segment_start": 11548,
+   "segment_end": 12067,
+   "candidates": [
+    {
+     "file": "37_寶可夢30週年聯名杯麵12杯入A39_p30.jpg",
+     "frame_time": 11703,
+     "relative_pos": 0.3,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    },
+    {
+     "file": "37_寶可夢30週年聯名杯麵12杯入A39_p55.jpg",
+     "frame_time": 11833,
+     "relative_pos": 0.55,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    },
+    {
+     "file": "37_寶可夢30週年聯名杯麵12杯入A39_p80.jpg",
+     "frame_time": 11963,
+     "relative_pos": 0.8,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    }
+   ],
+   "status": "ok"
+  },
+  {
+   "index": 38,
+   "product": "龜田製菓 米果＋花生60週年限定，24包A40",
+   "segment_start": 11168,
+   "segment_end": 12341,
+   "candidates": [
+    {
+     "file": "38_龜田製菓 米果＋花生60週年限定，24包A40_p30.jpg",
+     "frame_time": 11519,
+     "relative_pos": 0.3,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    },
+    {
+     "file": "38_龜田製菓 米果＋花生60週年限定，24包A40_p55.jpg",
+     "frame_time": 11813,
+     "relative_pos": 0.55,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    },
+    {
+     "file": "38_龜田製菓 米果＋花生60週年限定，24包A40_p80.jpg",
+     "frame_time": 12106,
+     "relative_pos": 0.8,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    }
+   ],
+   "status": "ok"
+  },
+  {
+   "index": 39,
+   "product": "綜合水果凍乾切片4種水果，165克A41",
+   "segment_start": 12421,
+   "segment_end": 12723,
+   "candidates": [
+    {
+     "file": "39_綜合水果凍乾切片4種水果，165克A41_p30.jpg",
+     "frame_time": 12511,
+     "relative_pos": 0.3,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    },
+    {
+     "file": "39_綜合水果凍乾切片4種水果，165克A41_p55.jpg",
+     "frame_time": 12587,
+     "relative_pos": 0.55,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    },
+    {
+     "file": "39_綜合水果凍乾切片4種水果，165克A41_p80.jpg",
+     "frame_time": 12662,
+     "relative_pos": 0.8,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    }
+   ],
+   "status": "ok"
+  },
+  {
+   "index": 40,
+   "product": "雪果水果冰沙凍飲80包，1440克A42",
+   "segment_start": 12723,
+   "segment_end": 12963,
+   "candidates": [
+    {
+     "file": "40_雪果水果冰沙凍飲80包，1440克A42_p30.jpg",
+     "frame_time": 12795,
+     "relative_pos": 0.3,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    },
+    {
+     "file": "40_雪果水果冰沙凍飲80包，1440克A42_p55.jpg",
+     "frame_time": 12855,
+     "relative_pos": 0.55,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    },
+    {
+     "file": "40_雪果水果冰沙凍飲80包，1440克A42_p80.jpg",
+     "frame_time": 12915,
+     "relative_pos": 0.8,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    }
+   ],
+   "status": "ok"
+  },
+  {
+   "index": 41,
+   "product": "日東紅茶 荔枝×沖繩海鹽風味飲夏季限定，60包A43",
+   "segment_start": 12966,
+   "segment_end": 13248,
+   "candidates": [
+    {
+     "file": "41_日東紅茶 荔枝×沖繩海鹽風味飲夏季限定，60包A43_p30.jpg",
+     "frame_time": 13050,
+     "relative_pos": 0.3,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    },
+    {
+     "file": "41_日東紅茶 荔枝×沖繩海鹽風味飲夏季限定，60包A43_p55.jpg",
+     "frame_time": 13121,
+     "relative_pos": 0.55,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    },
+    {
+     "file": "41_日東紅茶 荔枝×沖繩海鹽風味飲夏季限定，60包A43_p80.jpg",
+     "frame_time": 13191,
+     "relative_pos": 0.8,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    }
+   ],
+   "status": "ok"
+  },
+  {
+   "index": 42,
+   "product": "加拿大有機隔夜燕麥莓果＋奇亞籽，800克A44",
+   "segment_start": 13218,
+   "segment_end": 14028,
+   "candidates": [
+    {
+     "file": "42_加拿大有機隔夜燕麥莓果＋奇亞籽，800克A44_p30.jpg",
+     "frame_time": 13461,
+     "relative_pos": 0.3,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    },
+    {
+     "file": "42_加拿大有機隔夜燕麥莓果＋奇亞籽，800克A44_p55.jpg",
+     "frame_time": 13663,
+     "relative_pos": 0.55,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    },
+    {
+     "file": "42_加拿大有機隔夜燕麥莓果＋奇亞籽，800克A44_p80.jpg",
+     "frame_time": 13866,
+     "relative_pos": 0.8,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    }
+   ],
+   "status": "ok"
+  },
+  {
+   "index": 43,
+   "product": "久世福商店 大福麻糬北海道紅豆／鹿兒島紅芋，48 顆A45",
+   "segment_start": 14030,
+   "segment_end": 14425,
+   "candidates": [
+    {
+     "file": "43_久世福商店 大福麻糬北海道紅豆／鹿兒島紅芋，48 顆A45_p30.jpg",
+     "frame_time": 14148,
+     "relative_pos": 0.3,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    },
+    {
+     "file": "43_久世福商店 大福麻糬北海道紅豆／鹿兒島紅芋，48 顆A45_p55.jpg",
+     "frame_time": 14247,
+     "relative_pos": 0.55,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    },
+    {
+     "file": "43_久世福商店 大福麻糬北海道紅豆／鹿兒島紅芋，48 顆A45_p80.jpg",
+     "frame_time": 14346,
+     "relative_pos": 0.8,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    }
+   ],
+   "status": "ok"
+  },
+  {
+   "index": 44,
+   "product": "薯條造型餅乾兩種口味",
+   "segment_start": 14507,
+   "segment_end": 14565,
+   "candidates": [
+    {
+     "file": "44_薯條造型餅乾兩種口味_p30.jpg",
+     "frame_time": 14524,
+     "relative_pos": 0.3,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    },
+    {
+     "file": "44_薯條造型餅乾兩種口味_p55.jpg",
+     "frame_time": 14538,
+     "relative_pos": 0.55,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    },
+    {
+     "file": "44_薯條造型餅乾兩種口味_p80.jpg",
+     "frame_time": 14553,
+     "relative_pos": 0.8,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    }
+   ],
+   "status": "ok"
+  },
+  {
+   "index": 45,
+   "product": "明治 Apollo 阿波羅草莓巧克力家庭號90小包",
+   "segment_start": 14566,
+   "segment_end": 14817,
+   "candidates": [
+    {
+     "file": "45_明治 Apollo 阿波羅草莓巧克力家庭號90小包_p30.jpg",
+     "frame_time": 14641,
+     "relative_pos": 0.3,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    },
+    {
+     "file": "45_明治 Apollo 阿波羅草莓巧克力家庭號90小包_p55.jpg",
+     "frame_time": 14704,
+     "relative_pos": 0.55,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    },
+    {
+     "file": "45_明治 Apollo 阿波羅草莓巧克力家庭號90小包_p80.jpg",
+     "frame_time": 14766,
+     "relative_pos": 0.8,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    }
+   ],
+   "status": "ok"
+  },
+  {
+   "index": 46,
+   "product": "即沖洋蔥濃湯18袋，疑為 Costco JapanAWATAMA 洋蔥湯",
+   "segment_start": 14820,
+   "segment_end": 15026,
+   "candidates": [
+    {
+     "file": "46_即沖洋蔥濃湯18袋，疑為 Costco JapanAWATAMA 洋蔥湯_p30.jpg",
+     "frame_time": 14881,
+     "relative_pos": 0.3,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    },
+    {
+     "file": "46_即沖洋蔥濃湯18袋，疑為 Costco JapanAWATAMA 洋蔥湯_p55.jpg",
+     "frame_time": 14933,
+     "relative_pos": 0.55,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    },
+    {
+     "file": "46_即沖洋蔥濃湯18袋，疑為 Costco JapanAWATAMA 洋蔥湯_p80.jpg",
+     "frame_time": 14984,
+     "relative_pos": 0.8,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    }
+   ],
+   "status": "ok"
+  },
+  {
+   "index": 47,
+   "product": "日式醬油米菓仙貝大箱58入",
+   "segment_start": 15054,
+   "segment_end": 15269,
+   "candidates": [
+    {
+     "file": "47_日式醬油米菓仙貝大箱58入_p30.jpg",
+     "frame_time": 15118,
+     "relative_pos": 0.3,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    },
+    {
+     "file": "47_日式醬油米菓仙貝大箱58入_p55.jpg",
+     "frame_time": 15172,
+     "relative_pos": 0.55,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    },
+    {
+     "file": "47_日式醬油米菓仙貝大箱58入_p80.jpg",
+     "frame_time": 15226,
+     "relative_pos": 0.8,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    }
+   ],
+   "status": "ok"
+  },
+  {
+   "index": 48,
+   "product": "麝香葡萄蒟蒻果凍75入",
+   "segment_start": 15273,
+   "segment_end": 15464,
+   "candidates": [
+    {
+     "file": "48_麝香葡萄蒟蒻果凍75入_p30.jpg",
+     "frame_time": 15330,
+     "relative_pos": 0.3,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    },
+    {
+     "file": "48_麝香葡萄蒟蒻果凍75入_p55.jpg",
+     "frame_time": 15378,
+     "relative_pos": 0.55,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    },
+    {
+     "file": "48_麝香葡萄蒟蒻果凍75入_p80.jpg",
+     "frame_time": 15425,
+     "relative_pos": 0.8,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    }
+   ],
+   "status": "ok"
+  },
+  {
+   "index": 49,
+   "product": "Ginbis 迷你蘆筍餅乾綜合禮盒黑芝麻／黑巧／白巧，24袋",
+   "segment_start": 15469,
+   "segment_end": 15677,
+   "candidates": [
+    {
+     "file": "49_Ginbis 迷你蘆筍餅乾綜合禮盒黑芝麻／黑巧／白巧，24袋_p30.jpg",
+     "frame_time": 15531,
+     "relative_pos": 0.3,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    },
+    {
+     "file": "49_Ginbis 迷你蘆筍餅乾綜合禮盒黑芝麻／黑巧／白巧，24袋_p55.jpg",
+     "frame_time": 15583,
+     "relative_pos": 0.55,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    },
+    {
+     "file": "49_Ginbis 迷你蘆筍餅乾綜合禮盒黑芝麻／黑巧／白巧，24袋_p80.jpg",
+     "frame_time": 15635,
+     "relative_pos": 0.8,
+     "grabbed": true,
+     "match_confidence": null,
+     "verified": false
+    }
+   ],
+   "status": "ok"
+  }
+ ]
+}

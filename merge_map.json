@@ -1,0 +1,26 @@
+[
+ {
+  "removed": "### 奇奇與蒂蒂（Chip",
+  "reason": "continuation of Part 1 chip & dale cookie"
+ },
+ {
+  "removed": "### A33-1 角落縫隙除塵刷",
+  "reason": "continuation of Part 2 dust brush"
+ },
+ {
+  "removed": "### 北海道紅豆・紅芋地瓜大福",
+  "reason": "continuation of Part 3 kuze-fuku daifuku"
+ },
+ {
+  "replaced": "### 東京香蕉 × 奇奇蒂蒂（チップとデール）巧克力香蕉夾心餅乾",
+  "reason": "cross-part merge with continuation"
+ },
+ {
+  "replaced": "### 高密度纖毛除塵清潔刷",
+  "reason": "cross-part merge with continuation"
+ },
+ {
+  "replaced": "### 久世福商店 大福麻糬",
+  "reason": "cross-part merge with continuation"
+ }
+]
