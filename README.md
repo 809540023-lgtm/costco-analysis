@@ -48,18 +48,22 @@ python3 extract_frames.py --md 商品清單.md --video skyblue_costco.mp4 \
 
 ```
 商品清單.md          主檔：49 個商品段（時間/特色/好處/售價/定位/差異性）
+products.jsonl       ⭐ 結構化資料集 v0.1（schema 見 SCHEMA.md，validator: validate_dataset.py）
 products_part1~4.md  分區原始檔（含備註）
 transcript_full.txt  完整逐字稿（[MM:SS] 每行）
 chunks/              14 個 20 分鐘分段
 images/              147 幀候選 + manifest.json（49 段 × 3 幀）
 merge_map.json       跨段合併記錄
 merge_parts.py       合併腳本（CLI）
+build_dataset.py     markdown → JSONL 轉換器（重跑即重建 products.jsonl）
 extract_frames.py    截圖腳本（CLI，多幀 + manifest）
+.github/workflows/validate.yml  CI：重建＋驗證 JSONL
 ```
 
 ## 已知未做（Roadmap）
 
-- P1：版本化 JSONL schema（source/mentions/variants/price_observations/claims/frames + 逐字稿行號引用）
-- P1：小型人工 gold set（商品/variant 配對率、幣別正確率、圖片錯配率）
+- ~~P1：版本化 JSONL schema~~ ✅ `products.jsonl` v0.1（build_dataset.py / validate_dataset.py / SCHEMA.md / CI）
+- P1：小型人工 gold set（商品/variant 配對率、幣別正確率、圖片錯配率）— 需人工核對 147 幀候選
+- P1：真實留言資料（本場次僅語音逐字稿，主播代讀留言需標 indirect）
 - P2：冪等寫入 `jp-costco-shop` 的 private staging（禁止直接 published）
 - 影片/音訊檔不入庫（GitHub 100MB 上限），僅存本地
