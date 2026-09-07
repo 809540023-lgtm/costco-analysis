@@ -13,6 +13,10 @@
 | 直播日期 | 2026-09-06（影片下載日，未獨立核實原發布日） |
 | 整理日期 | 2026-09-06～07 |
 
+> 🗑️ **直播畫面截圖已刪除**（2026-09-07 依用戶要求：截圖含直播主肖像，不宜公開保存）。
+> 現行商品圖為 `official-images/`（48/49 來自品牌官網／Costco Japan 官網，來源逐筆記錄於 `download_manifest.json`；#44 薯條造型餅乾未找到官方圖）。
+> 如需重建直播截圖，用 `extract_frames.py` 從本地影片重抓即可。
+
 ## 重現流程
 
 ```bash
@@ -52,7 +56,9 @@ products.jsonl       ⭐ 結構化資料集 v0.1（schema 見 SCHEMA.md，valida
 products_part1~4.md  分區原始檔（含備註）
 transcript_full.txt  完整逐字稿（[MM:SS] 每行）
 chunks/              14 個 20 分鐘分段
-images/              147 幀候選 + manifest.json（49 段 × 3 幀）
+images/              （已刪除：直播截圖，extract_frames.py 可隨時從本地影片重建）
+official-images/     ⭐ 48 張官方商品圖 + download_manifest.json（含每張來源網頁）
+finalize_images.py   官方圖整合＋舊截圖刪除流程
 merge_map.json       跨段合併記錄
 merge_parts.py       合併腳本（CLI）
 build_dataset.py     markdown → JSONL 轉換器（重跑即重建 products.jsonl）

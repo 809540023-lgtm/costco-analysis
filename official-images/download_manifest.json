@@ -1,0 +1,496 @@
+{
+ "generated_by": "official image search agents",
+ "note": "直播畫面截圖已依用戶要求刪除（含主播人像）；圖片來源見每筆 source_page",
+ "entries": [
+  {
+   "index": 1,
+   "product": "Happy Turn（ハッピーターン）仙貝餅乾 50週年限定家庭號",
+   "file": "01_happy-turn-50th.jpg",
+   "image_url": "https://www.costco.co.jp/medias/sys_master/images/hdb/h3c/345315285794846.jpg",
+   "source_page": "https://www.costco.co.jp/c/Kameda-Happy-Turn-Box-28g-x-30-bags/p/51495",
+   "source_type": "costco",
+   "downloaded": true,
+   "note": "Costco官方頁（亀田製菓 ハッピーターン BOX 28g×30袋 家庭號）og:image 1200x1200。Happy Turn 自2026年3月起全面改版為50週年紀念包裝（Kameda官方新聞: https://www.kamedaseika.co.jp/news/20260310_25455/ 、50週年官方站: https://www.happyturn.com/50th/ ）；Costco頁面未標註週年字樣，圖為Costco在售BOX版。"
+  },
+  {
+   "index": 2,
+   "product": "東京香蕉 × 樂天小熊餅乾（コアラのマーチ）聯名焦糖香蕉夾心餅乾「見ぃつけたっ」",
+   "file": "02_tokyo-banana-koala.png",
+   "image_url": "https://www.tokyobanana.jp/a_assets/img/products/banana_koala/item_12p.png",
+   "source_page": "https://www.tokyobanana.jp/products/banana_koala.html",
+   "source_type": "official",
+   "downloaded": true,
+   "note": "東京ばな奈官方站商品圖（alt=コアラのマーチ 東京ばな奈 キャラメルバナナ「見ぃつけたっ」，12袋入裝，1071x1073 PNG）。"
+  },
+  {
+   "index": 3,
+   "product": "小熊維尼 100 週年 × 東京香蕉（迪士尼聯名）折疊購物袋",
+   "file": "03_pooh-100th-ecobag.jpg",
+   "image_url": "https://shop.r10s.jp/paqtomogsweetsshop/cabinet/goods/banana/13569262/pooh-gzh_eb01.jpg",
+   "source_page": "https://item.rakuten.co.jp/paqtomogsweetsshop/400167/",
+   "source_type": "official_ec",
+   "downloaded": true,
+   "note": "グレープストーン公式オンラインショップ「パクとモグ」楽天官方店（item 400167「くまのプーさん/エコバッグ」，折疊式）og:image 1201x1200。プーさん原作100周年×東京ばな奈 Disney SWEETS COLLECTION 系列。"
+  },
+  {
+   "index": 4,
+   "product": "小熊維尼 100 週年 × 東京香蕉（迪士尼聯名）化妝包／萬用包",
+   "file": "04_pooh-100th-pouch.jpg",
+   "image_url": "https://shop.r10s.jp/paqtomogsweetsshop/cabinet/goods/banana/13569262/pooh-gzh_po01.jpg",
+   "source_page": "https://item.rakuten.co.jp/paqtomogsweetsshop/400170/",
+   "source_type": "official_ec",
+   "downloaded": true,
+   "note": "パクとモグ楽天官方店（item 400170「くまのプーさん/メッシュポーチ」，化妝包/萬用包）og:image 1200x1200。同プーさん100周年系列。"
+  },
+  {
+   "index": 5,
+   "product": "吉伊卡哇 × 東京香蕉 夾心餅乾三明治（香蕉牛奶口味）12 枚",
+   "file": "05_chiikawa-cookie-sand.png",
+   "image_url": "https://www.tokyobanana.jp/assets/chiikawa/images/top/top_sand.png",
+   "source_page": "https://www.tokyobanana.jp/products/banana_chiikawa.html",
+   "source_type": "official",
+   "downloaded": true,
+   "note": "東京ばな奈官方站「ちいかわ × 東京ばな奈」頁的クッキーサンド（バナナミルク味）官方視覺（alt=クッキーサンドイメージ，2340x1140 PNG）；官方頁未單獨提供12枚盒裝照。"
+  },
+  {
+   "index": 6,
+   "product": "UHA味覺糖 鐵＋葉酸＋膠原蛋白軟糖（サプリぷっちょ，Costco 特規 220 粒）",
+   "file": "06_uha-gummy-iron-folic.jpg",
+   "image_url": "https://www.costco.co.jp/medias/sys_master/images/h34/h87/360901965021214.jpg",
+   "source_page": "https://www.costco.co.jp/c/UHA-Gummy-Supplement-Iron-Folic-Acid-220-Count/p/90000",
+   "source_type": "costco",
+   "downloaded": true,
+   "note": "Costco官方頁「UHA グミサプリ 鉄＆葉酸 220粒」og:image 1200x1200（11袋×20粒）。"
+  },
+  {
+   "index": 7,
+   "product": "愛麗思（IRIS Foods）3 種起司燉飯／即食粥（沖泡即食）21 食",
+   "file": "07_iris-cheese-risotto-3kinds.jpg",
+   "image_url": "https://www.costco.co.jp/medias/sys_master/images/hb8/h3a/470903188127774.jpg",
+   "source_page": "https://www.costco.co.jp/p/84212",
+   "source_type": "costco",
+   "downloaded": true,
+   "note": "Costco官方頁「3種のチーズリゾット 21食入」（商品番号84212，アイリスフーズ製，JAN 4562403573926）og:image 1200x1200。アイリスフーズ官方站未列出此SKU，故以Costco官方為來源。"
+  },
+  {
+   "index": 8,
+   "product": "哆啦A夢（Doraemon）小方巾 5 條組",
+   "file": "08_doraemon-towel-5p.jpg",
+   "image_url": "https://www.costco.co.jp/medias/sys_master/images/h44/h39/397176104386590.jpg",
+   "source_page": "https://www.costco.co.jp/ANNA-SUI/Anna-Sui-x-DRAEMON-Towel-Handkerchief-5P-set/p/66659",
+   "source_type": "costco",
+   "downloaded": true,
+   "note": "Costco官方頁「アナスイ×ドラえもん タオルハンカチ5枚セット」（25×25cm，綿100%）og:image 1200x1200。"
+  },
+  {
+   "index": 9,
+   "product": "史努比（Snoopy）抗菌枕頭套 2 入",
+   "file": "09_snoopy-pillow-cover.jpg",
+   "image_url": "https://www.costco.co.jp/medias/sys_master/images/h94/hbb/486378083844126.jpg",
+   "source_page": "https://www.costco.co.jp/c/Nishikawa-PEANUTS-Pillow-Cover-64cm-x-43cm-2PK/p/84838",
+   "source_type": "costco",
+   "downloaded": true,
+   "note": "Costco官方頁「西川 スヌーピー のびのび枕カバー 64×43cm 2枚パック」（抗菌加工）og:image 1200x1200。"
+  },
+  {
+   "index": 10,
+   "product": "立頓（Lipton）冷泡三角立體茶包 3 種口味 72 包",
+   "file": "10_lipton-cold-brew-3kinds.jpg",
+   "image_url": "https://www.costco.co.jp/medias/sys_master/images/hd9/h96/438588371304478.jpg",
+   "source_page": "https://www.costco.co.jp/c/リプトン-水出しアイスティーアソート3種-72個入り/p/58482",
+   "source_type": "costco",
+   "downloaded": true,
+   "note": "Costco官方頁「リプトン 水出しアイスティーアソート3種 72個入り」（アールグレイ/グリーンティー ピーチ&オレンジ/ベリーフルーツインティー 各24包）og:image 1200x1200。"
+  },
+  {
+   "index": 11,
+   "product": "UHA味覺糖 葉黃素夾心軟糖（芒果口味）180 粒",
+   "file": "11_uha-pucho-lutein.jpg",
+   "image_url": "https://www.costco.co.jp/medias/sys_master/images/h59/h48/421787760230430.jpg",
+   "source_page": "https://www.costco.co.jp/UHA-Mikakuto/Supplement-Pucho-Lutein-969g-90-days/p/89995",
+   "source_type": "costco",
+   "downloaded": true,
+   "note": "Costco官方頁「UHA サプリぷっちょルテイン90日分」（969g・180粒・マンゴー味）og:image 1200x1200。"
+  },
+  {
+   "index": 12,
+   "product": "UHA味覺糖 綜合維他命夾心軟糖（葡萄柚口味）180 粒",
+   "file": "12_uha-pucho-multivitamin.jpg",
+   "image_url": "https://www.costco.co.jp/medias/sys_master/images/hd5/hb9/417962582671390.jpg",
+   "source_page": "https://www.costco.co.jp/c/Supplement-Pucho-Multivitamin-969g-90-days/p/89996",
+   "source_type": "costco",
+   "downloaded": true,
+   "note": "Costco官方頁「UHA サプリぷっちょマルチビタミン 90日分」（969g・180粒・グレープフルーツ味）og:image 1200x1200。"
+  },
+  {
+   "index": 13,
+   "product": "草莓凍乾巧克力 3 種 410g",
+   "file": "13_strawberry-chocolate-3kinds.jpg",
+   "image_url": "https://www.costco.co.jp/medias/sys_master/images/h66/hf0/243217525637150.jpg",
+   "source_page": "https://www.costco.co.jp/c/Strawberry-Chocolate-Assortment-Box-410g/p/47797",
+   "source_type": "costco",
+   "downloaded": true,
+   "note": "Costco官方頁「ストロベリーチョコレート アソートボックス 410g」（クリート製，ホワイト/ミルク/ストロベリー3種）og:image 1200x1200。"
+  },
+  {
+   "index": 14,
+   "product": "東京香蕉 × 奇奇蒂蒂（チップとデール）棉麻化妝包",
+   "file": "14_tokyobanana-chipdale-pouch.jpg",
+   "image_url": "https://www.paqtomog.com/img/goods/L/7509_L.jpg",
+   "source_page": "https://www.paqtomog.com/shop/c/cdncd-ch/",
+   "source_type": "official_ec",
+   "downloaded": true,
+   "note": "葡萄子（東京香蕉母公司）官方線上商店「パクとモグ」商品照：チップ＆デール/ポーチ 1個（商品番号7509，1,100円，期間限定NEW）。官方Rakuten店（商品番号400157）標示素材本體綿100%，與直播所述棉麻化妝包相符。截圖時EC已售完但商品圖仍在官方伺服器。"
+  },
+  {
+   "index": 15,
+   "product": "東京香蕉 × 奇奇蒂蒂（チップとデール）巧克力香蕉夾心餅乾（紙盒8入／鐵盒12入）",
+   "file": "15_tokyobanana-chipdale-choco-banana-sand.jpg",
+   "image_url": "https://prcdn.freetls.fastly.net/release_image/25606/1948/25606-1948-10b22d699a615fad301bf595804de06b-1000x692.jpg",
+   "source_page": "https://prtimes.jp/main/html/rd/p/000001948.000025606.html",
+   "source_type": "official",
+   "downloaded": true,
+   "note": "品牌母公司株式會社葡萄子2026/4/16官方新聞稿圖：『チップ＆デール/バニラチョコレートサンド』8枚入（1,188円）＋スペシャル缶12枚入（2,180円），海灘夏日主題鐵盒，與直播「紙盒8入／鐵盒12入、四面夏日海灘圖案」完全對應。品牌官方發布之新聞稿照片。"
+  },
+  {
+   "index": 16,
+   "product": "哈利波特聯名萬聖節造型軟糖（12包入）",
+   "file": "16_haribo-harry-potter-box-12pack.jpg",
+   "image_url": "https://www.costco.co.jp/medias/sys_master/images/h83/h90/485014614900766.jpg",
+   "source_page": "https://www.costco.co.jp/Food-Beverage/Gummies-Candy-Jelly/HARIBO-HARRY-POTTER-BOX/p/88524",
+   "source_type": "costco",
+   "downloaded": true,
+   "note": "日本好市多官網：ハリボー ハリー・ポッターボックス 900g（75g×12袋，6種魔法造型軟糖，¥2,148），與直播12包入約900g相符。"
+  },
+  {
+   "index": 17,
+   "product": "CK（Calvin Klein）女用短襪（5雙入）",
+   "file": "17_calvin-klein-womens-crew-socks-5pk.jpg",
+   "image_url": "https://www.costco.co.jp/medias/sys_master/images/h54/h7d/414386303533086.jpg",
+   "source_page": "https://www.costco.co.jp/Calvin-Klein/Calvin-Klein-Womens-Crew-Sock-5PK/p/72267",
+   "source_type": "costco",
+   "downloaded": true,
+   "note": "日本好市多官網：カルバンクライン ウィメンズ クルー ソックス 5足組（23-25cm，¥2,198），與直播5雙組女用短襪相符。"
+  },
+  {
+   "index": 18,
+   "product": "一蘭 特級雙拼豚骨拉麵（5碗）",
+   "file": "18_ichiran-tonkotsu-ramen-assort-5mei.jpg",
+   "image_url": "https://www.costco.co.jp/medias/sys_master/images/h4e/hf4/385682556977182.jpg",
+   "source_page": "https://www.costco.co.jp/Food-Beverage/Pantry-Dry-Goods/Pasta-Noodles/ICHIRAN-ASORT-NOODLE/p/77745",
+   "source_type": "costco",
+   "downloaded": true,
+   "note": "日本好市多官網：一蘭 2種アソート 細麺・釜だれ（¥2,098）。博多細麺×5食、液體湯（博多細麺ストレート）×3袋＋（釜だれとんこつ）×2袋，與直播圓碗一般款3碗＋方碗特級醬汁款2碗（共5碗）一致。"
+  },
+  {
+   "index": 19,
+   "product": "Godiva 綜合牛奶巧克力（360g）",
+   "file": "19_godiva-masterpieces-milk-choc-360g.jpg",
+   "image_url": "https://www.costco.co.jp/medias/sys_master/images/h22/h2a/491109941182494.jpg",
+   "source_page": "https://www.costco.co.jp/Gifts-Entertainment/Food-Gifts/Godiva-Masterpieces-Assorted-Chocolates-360g/p/90437",
+   "source_type": "costco",
+   "downloaded": true,
+   "note": "日本好市多官網：ゴディバ マスターピース ミルクチョコレートアソート 360g（¥2,380，好市多限定）。牛奶praline／焦糖牛奶／牛奶ブリス3種，與直播三種形狀牛奶系巧克力一致。"
+  },
+  {
+   "index": 20,
+   "product": "日本好市多 Omega-3 魚油軟糖（芒果口味）",
+   "file": "20_nissui-gummy-supplement-omega3-mango.jpg",
+   "image_url": "https://www.costco.co.jp/medias/sys_master/images/h12/h11/368303261351966.jpg",
+   "source_page": "https://www.costco.co.jp/Health-Beauty-Medicine/Vitamins-Supplements/NISSUI-GUMMY-SUPPLEMENT-OMEGA3-100-Counts/p/76143",
+   "source_type": "costco",
+   "downloaded": true,
+   "note": "日本好市多官網：NISSUI（ニッスイ）グミサプリ OMEGA3 100粒（¥2,458）。魚造型芒果味硬質軟糖、約25日分×4袋、1粒DHA&EPA共200mg，與直播描述一致。"
+  },
+  {
+   "index": 21,
+   "product": "好市多 阿拉斯加野生鮭魚油（540顆）",
+   "file": "21_costco-alaska-salmon-oil-540.jpg",
+   "image_url": "https://www.costco.co.jp/medias/sys_master/images/h3b/h8a/379431668121630.jpg",
+   "source_page": "https://www.costco.co.jp/c/TRIDENT-SALMON-OMEGA3-540/p/70839",
+   "source_type": "costco",
+   "downloaded": true,
+   "note": "日本好市多官網：トライデント オメガ3 天然アラスカサーモンオイル 333mg 540粒（¥3,468）。540粒／180日分、低溫壓榨、天然維生素A,D,E，與直播完全相符。"
+  },
+  {
+   "index": 22,
+   "product": "黑松露奶油濃湯（10袋入）",
+   "file": "22_truffle-cream-soup-10pack.jpg",
+   "image_url": "https://www.costco.co.jp/medias/sys_master/images/h60/had/435250871074846.jpg",
+   "source_page": "https://www.costco.co.jp/Food-Beverage/Pantry-Dry-Goods/Canned-Jarred-Soup/TRUFFE-CREAM-SOUP-10P/p/77403",
+   "source_type": "costco",
+   "downloaded": true,
+   "note": "日本好市多官網：トリュフクリームスープ 10食（¥1,998）。熱水沖泡即食、刻碎松露＋生奶油＋奶油，與直播相符。"
+  },
+  {
+   "index": 23,
+   "product": "藍莓堅果白巧克力脆餅（12小包入）",
+   "file": "23_innofoods-blueberry-clusters-12pack.jpg",
+   "image_url": "https://www.costco.co.jp/medias/sys_master/images/h22/hd3/468322911977502.jpg",
+   "source_page": "https://www.costco.co.jp/p/1961264",
+   "source_type": "costco",
+   "downloaded": true,
+   "note": "日本好市多官網：innofoods ブルーベリークラスター 510g（¥2,798）。藍莓＋堅果＋白巧克力＋蛋白脆粒（プロテインクリスプ）、12袋獨立包裝，與直播「12小包／約512g」相符（官網標510g）。"
+  },
+  {
+   "index": 24,
+   "product": "東京香蕉（TOKYO BANANA）×玩具總動員 聯名夾心餅乾（10片入）",
+   "file": "24_tokyobanana-toystory-chocorat-sand-10.jpg",
+   "image_url": "https://www.paqtomog.com/img/goods/L/7487_L.jpg",
+   "source_page": "https://www.paqtomog.com/shop/g/g7487.html",
+   "source_type": "official_ec",
+   "downloaded": true,
+   "note": "葡萄子官方線上商店「パクとモグ」現售商品：トイ・ストーリー/ショコラサンド「見ぃつけたっ」10枚入（商品番号7487，1,460円），即官方站2026玩具總動員聯名系列。"
+  },
+  {
+   "index": 25,
+   "product": "UHA味覺糖 高級水果軟糖（岡山白桃＆山梨麝香葡萄）",
+   "file": "25_uha-gotochi-premium-gummy-white-peach-pione-26pack.jpg",
+   "image_url": "https://www.costco.co.jp/medias/sys_master/images/h4c/h95/489872329998366.jpg",
+   "source_page": "https://www.costco.co.jp/Food-Beverage/Gummies-Candy-Jelly/UHA-Mikakuto-Gotochi-Premium-Shimizu-White-Peach-Yamanashi-Pione-28g-x-26-Bags/p/84328",
+   "source_type": "costco",
+   "downloaded": true,
+   "note": "日本好市多官網：UHA味覚糖 ご当地PREMIUMグミ 清水白桃＆山梨ピオーネ 28g×26袋（¥2,278）。岡山產清水白桃＋山梨產葡萄Pione，總重728g，與直播「728克／約26袋、岡山白桃＆山梨葡萄」相符（直播所稱麝香葡萄實為Pione品種）。"
+  },
+  {
+   "index": 26,
+   "product": "燻製起司條＆燻製鮭魚起司條（8袋入）",
+   "file": "26_natori-cheese-cod-smoked-cheese-8pack.jpg",
+   "image_url": "https://www.costco.co.jp/medias/sys_master/images/h8f/he1/504275996803102.jpg",
+   "source_page": "https://www.costco.co.jp/c/NATORI-Luxury-Cheese-Cod-Smoked-Cheese-256g-8Packs/p/45998",
+   "source_type": "costco",
+   "downloaded": true,
+   "note": "日本好市多官網：なとり 贅沢なチーズ鱈＆燻製チーズ 256g 8袋入（¥1,538）。燻製起司（多種天然起司蘋果木燻製）＋起司鱈（加入法國康帝起司，1982年上市之招牌商品）各4袋共8袋，與直播「兩口味各4袋／起司1982年起人氣／法國起司」對應；直播逐字稿之「鮭魚條」應為橘紅色起司鱈之誤認（品牌為1931年創業之なとり，直播所稱1982年創業係商品上市年份）。"
+  },
+  {
+   "index": 27,
+   "product": "日東紅茶 宇治抹茶歐蕾（60包入）",
+   "file": "27-nitto-matcha-au-lait.png",
+   "image_url": "https://www.nittoh-tea.com/products/img/instant/img-others04_top.png",
+   "source_page": "https://www.nittoh-tea.com/products/instant/others04.html",
+   "source_type": "official",
+   "downloaded": true,
+   "note": "三井農林 日東紅茶官網 抹茶オーレ（インスタント）主商品圖 450x430 PNG；60本大容量包裝為 Costco/通路限定"
+  },
+  {
+   "index": 28,
+   "product": "日本境內版胡椒鹽（400g×2罐）",
+   "file": "28-daisho-ajishio-pepper.jpg",
+   "image_url": "https://www.daisho.co.jp/dw/wp-content/uploads/2021/11/25380-HP商品画像　味こ400ｇ-のコピー-scaled.jpg",
+   "source_page": "https://www.daisho.co.jp/1396",
+   "source_type": "official",
+   "downloaded": true,
+   "note": "ダイショー官網 味・塩こしょう400g 官方圖 2560x2560；Costco 版為同罐裝 400g×2 入（Costco 線上頁 593843 為 JS 動態載入、無法抓到 og:image，故採品牌官網圖）"
+  },
+  {
+   "index": 29,
+   "product": "香菇脆片／香菇乾（300g）",
+   "file": "29-dja-shiitake-crisps.jpg",
+   "image_url": "http://www.costco.co.jp/medias/sys_master/images/hea/h48/397173883731998.jpg",
+   "source_page": "https://www.costco.co.jp/c/DJA-Shiitake-Mushroom-Crisps-300g/p/19995",
+   "source_type": "costco",
+   "downloaded": true,
+   "note": "Costco Japan 官網 DJ&A シイタケマッシュルームクリスプ 300g og:image 1200x1200"
+  },
+  {
+   "index": 30,
+   "product": "青汁（100%國產有機大麥若葉，162包）",
+   "file": "30-yamamoto-kanpo-aojiru.jpg",
+   "image_url": "http://www.costco.co.jp/medias/sys_master/images/hbe/h96/169792973897758.jpg",
+   "source_page": "https://www.costco.co.jp/c/100-Pure-Organic-Young-Barley-Green-Powder-3g-x-156-Count/p/36338",
+   "source_type": "costco",
+   "downloaded": true,
+   "note": "山本漢方 オーガニック大麦若葉青汁；Costco 線上現售為 3g×156包（同系列改版），og:image 1200x1200；品牌官網 kanpo-yamamoto.com 產品陣容未收錄此 Costco 版"
+  },
+  {
+   "index": 31,
+   "product": "高密度纖毛除塵清潔刷（附自潔集塵盒）",
+   "file": "31-lec-toreloop-dust-brush.jpg",
+   "image_url": "https://lecinc.itembox.cloud/product/012/000000001218/000000001218-01.jpg?size=l&w=ODAw&t=20241021151039",
+   "source_page": "https://www.lec-online.com/c/04cleaning/4903320047952",
+   "source_type": "official_ec",
+   "downloaded": true,
+   "note": "レック（LEC）公式線上商店 激落ちくん トレループ 時短ケース付ホコリ取り(ハンディ) 商品主圖 800x800"
+  },
+  {
+   "index": 32,
+   "product": "日本好市多限定 蒟蒻果凍（4種水果口味，80入）",
+   "file": "32-yukiguni-agri-konjac-jelly.jpg",
+   "image_url": "http://www.costco.co.jp/medias/sys_master/images/h39/h66/260229606440990.jpg",
+   "source_page": "https://www.costco.co.jp/c/4-Fruit-Konjac-Jelly-80Pieces/p/57361",
+   "source_type": "costco",
+   "downloaded": true,
+   "note": "Costco Japan 官網 雪国アグリ 4種のフルーツこんにゃくゼリー 80個入り og:image 1200x1200（Costco 限定商品，製造商官網無此包裝頁）"
+  },
+  {
+   "index": 33,
+   "product": "萬聖節限定 餅乾組合（動物餅乾＋巧克力玉米脆餅，16袋）",
+   "file": "33-ginbis-halloween-pack.jpg",
+   "image_url": "http://www.costco.co.jp/medias/sys_master/images/h54/h2b/492371481886750.jpg",
+   "source_page": "https://www.costco.co.jp/Food-Beverage/Cookies-Biscuit/Ginbis-Halloween-Pack-16PC/p/88184",
+   "source_type": "costco",
+   "downloaded": true,
+   "note": "Costco Japan 官網 ギンビス ハロウィンパック16袋（たべっ子どうぶつ×8＋しみチョココーン×8）og:image 1200x1200"
+  },
+  {
+   "index": 34,
+   "product": "千年屋 格紋棒狀鬆餅（16入獨立包裝）",
+   "file": "34-sennenya-stick-waffle.jpg",
+   "image_url": "http://www.costco.co.jp/medias/sys_master/images/h48/h46/313483316527134.jpg",
+   "source_page": "https://www.costco.co.jp/c/Sennenya-Stick-Waffle-16-pieces/p/66874",
+   "source_type": "costco",
+   "downloaded": true,
+   "note": "Costco Japan 官網 千年屋 ふんわりしっとりすてぃっくわっふる 16個入り og:image 1200x1200"
+  },
+  {
+   "index": 35,
+   "product": "低卡春雨湯組合包（6口味×5包=30包）",
+   "file": "35-hikarimiso-harusame-soup.jpg",
+   "image_url": "http://www.costco.co.jp/medias/sys_master/images/he0/h09/346258161893406.jpg",
+   "source_page": "https://www.costco.co.jp/c/hikari-miso-harusame-soup-30p/p/558056",
+   "source_type": "costco",
+   "downloaded": true,
+   "note": "Costco Japan 官網 ひかり味噌 春雨スープ 30食 og:image 1200x1200；品牌官網通販無此 30 食 Costco 版頁"
+  },
+  {
+   "index": 36,
+   "product": "巧克力智郎 猴子IP巧克力餅乾（27袋入）",
+   "file": "36-sakuyama-chokojiro.jpg",
+   "image_url": "http://www.costco.co.jp/medias/sys_master/images/h05/h50/414384510500894.jpg",
+   "source_page": "https://www.costco.co.jp/Food-Beverage/Chocolate/Other-Chocolates/Sakuyama-Chokojiro-Choco-Biscuit674g/p/82103",
+   "source_type": "costco",
+   "downloaded": true,
+   "note": "Costco Japan 官網 正栄 サク山チョコ次郎 674g（個包装27袋、猴子角色チョコジロー）og:image 1200x1200"
+  },
+  {
+   "index": 37,
+   "product": "寶可夢30週年聯名杯麵（12杯入）",
+   "file": "37-pokemon-noodle-seafood.webp",
+   "image_url": "https://www.sanyofoods.co.jp/pokemon/img/top/design/A/seafoods.webp",
+   "source_page": "https://www.sanyofoods.co.jp/pokemon/",
+   "source_type": "official",
+   "downloaded": true,
+   "note": "サンヨー食品 ポケモンヌードル公式サイト シーフード味杯身官圖 480x501 WebP；Costco 版為同款 37g×12 杯箱裝（店頭販售、無 Costco 線上頁）"
+  },
+  {
+   "index": 38,
+   "product": "龜田製菓 米果＋花生（60週年限定，24包）",
+   "file": "38-kameda-kakitone-peanut.jpg",
+   "image_url": "https://www.kamedaseika.co.jp/wp-content/uploads/2022/04/63g215821_610_610.jpg",
+   "source_page": "https://www.kamedaseika.co.jp/product/1031/",
+   "source_type": "official",
+   "downloaded": true,
+   "note": "亀田製菓官網 亀田の柿の種 63g（米果＋花生）官方圖 610x610；Costco 為 63g×24袋箱裝；2026 恰為柿の種60週年（有ウルトラマン聯名活動），箱裝紀念設計未能從官方來源取得，故以同商品標準袋官圖代替"
+  },
+  {
+   "index": 39,
+   "product": "綜合水果凍乾切片（4種水果，165克）＝ NITTO フルーツチップス 165g",
+   "file": "39-nitto-fruit-chips-mix.jpg",
+   "image_url": "http://www.costco.co.jp/medias/sys_master/images/hf9/hf7/397173861482526.jpg",
+   "source_page": "https://www.costco.co.jp/Food-Beverage/Snacks-Savory-Treats/Snacks/FRUITS-CHIPS-165g/p/76478",
+   "source_type": "costco",
+   "downloaded": true,
+   "note": "Costco Japan 官網商品頁（4種：草莓/黃桃/蘋果/香蕉，165g，日東貼牌進口）"
+  },
+  {
+   "index": 40,
+   "product": "「雪果」水果冰沙凍飲（80包，1440克）＝ 雪国アグリ 凍らせて食べるフルーツミックスシャーベット 1440g",
+   "file": "40-yukiguni-fruit-sorbet.jpg",
+   "image_url": "http://www.costco.co.jp/medias/sys_master/images/h88/hac/489872325509150.jpg",
+   "source_page": "https://www.costco.co.jp/c/Fruit-Mix-Sorbet-1440-g-80-packs/p/64065",
+   "source_type": "costco",
+   "downloaded": true,
+   "note": "雪国アグリ（Yukiguni Agri）出品，蘋果/水蜜桃/芒果/葡萄4種×約80包（18g），冷凍後即冰沙，與直播描述完全一致"
+  },
+  {
+   "index": 41,
+   "product": "日東紅茶 塩とライチ（荔枝×沖繩海鹽風味飲，夏季限定，60包）",
+   "file": "41-nittoh-salt-lychee.png",
+   "image_url": "https://www.nittoh-tea.com/products/img/instant/img-salt_top.png",
+   "source_page": "https://www.nittoh-tea.com/products/instant/salt.html",
+   "source_type": "official",
+   "downloaded": true,
+   "note": "日東紅茶（Nittoh Tea）品牌官方網站商品頁圖片"
+  },
+  {
+   "index": 42,
+   "product": "加拿大有機隔夜燕麥（莓果＋奇亞籽，800克）＝ PRANA オーバーナイト チア&オーツ ベリー味",
+   "file": "42-prana-overnight-oats-berry.jpg",
+   "image_url": "http://www.costco.co.jp/medias/sys_master/images/ha8/h07/401446193528862.jpg",
+   "source_page": "https://www.costco.co.jp/Food-Beverage/Pantry-Dry-Goods/Granola-Oats/OVERNIGHT-CHIAOAT-BERRY/p/1478520",
+   "source_type": "costco",
+   "downloaded": true,
+   "note": "Costco Japan 官網商品頁，加拿大 PRANA 品牌有機認證"
+  },
+  {
+   "index": 43,
+   "product": "久世福商店 大福麻糬（48顆，8粒×6袋）",
+   "file": "43-kusefuku-daifuku.jpg",
+   "image_url": "http://www.costco.co.jp/medias/sys_master/images/h9d/ha0/383806264836126.jpg",
+   "source_page": "https://www.costco.co.jp/Food-Beverage/Pantry-Dry-Goods/Kuzehuku-Bite-Sized-Daihuku-8-x-6pc/p/76562",
+   "source_type": "costco",
+   "downloaded": true,
+   "note": "Costco Japan 官網商品頁（ひとくち大福 48粒）；直播提的北海道紅豆(こしあん)為此款基本口味，另有紅芋/焼き芋餡季節款"
+  },
+  {
+   "index": 44,
+   "product": "薯條造型餅乾（兩種口味）",
+   "file": null,
+   "image_url": null,
+   "source_page": null,
+   "source_type": "unverified",
+   "downloaded": false,
+   "note": "not_found：無法從官網/Costco Japan 官網確認此商品（直播中也未標示品牌與口味、包裝無法辨識，主播當場放棄販售）。候選如スイートボックス フライドポテト為馬鈴薯零食非餅乾，依規則不以其他商品圖冒充"
+  },
+  {
+   "index": 45,
+   "product": "明治 Apollo 阿波羅草莓巧克力家庭號（90小包，756g）",
+   "file": "45-meiji-apollo-family.jpg",
+   "image_url": "http://www.costco.co.jp/medias/sys_master/images/h31/h48/454520007393310.jpg",
+   "source_page": "https://www.costco.co.jp/c/Apollo-Chocolate-90packs-756g/p/64334",
+   "source_type": "costco",
+   "downloaded": true,
+   "note": "90袋家庭號為 Costco Japan 專賣規格；明治官方網站僅有標準包裝圖，故採用 Costco Japan 官網圖"
+  },
+  {
+   "index": 46,
+   "product": "即沖洋蔥濃湯（18袋）＝ AWATAMA（あわたま）オニオンスープ 18食入",
+   "file": "46-awatama-onion-soup-18.jpg",
+   "image_url": "http://www.costco.co.jp/medias/sys_master/images/haa/h09/243994457079838.jpg",
+   "source_page": "https://www.costco.co.jp/c/AWATAMA-ONION-SOUP-18PC/p/44908",
+   "source_type": "costco",
+   "downloaded": true,
+   "note": "Cosmos Foods（コスモス食品）AWATAMA 品牌，Costco Japan 官網 18食入商品頁；品牌官網 awatama.to 僅列出 5食盒裝圖"
+  },
+  {
+   "index": 47,
+   "product": "日式醬油米菓仙貝大箱（58入）＝ 丸彦製菓 揚げもち 986g 58パック",
+   "file": "47-maruhiko-agemochi-58.jpg",
+   "image_url": "http://www.costco.co.jp/medias/sys_master/images/hff/hdb/402828500500510.jpg",
+   "source_page": "https://www.costco.co.jp/c/MARUHIKO-AGEMOCHI-RICE/p/78149",
+   "source_type": "costco",
+   "downloaded": true,
+   "note": "Costco Japan 官網商品頁，丸彦製菓醬油味揚餅 986g×58包"
+  },
+  {
+   "index": 48,
+   "product": "麝香葡萄蒟蒻果凍（75入）＝ 雪国アグリ シャインマスカットこんにゃくゼリー 1350g",
+   "file": "48-shine-muscat-konjac-jelly.jpg",
+   "image_url": "http://www.costco.co.jp/medias/sys_master/images/h85/h47/257583799762974.jpg",
+   "source_page": "https://www.costco.co.jp/c/Shine-Muscat-Konjac-Jelly-75-Pieces/p/55184",
+   "source_type": "costco",
+   "downloaded": true,
+   "note": "Costco Japan 官網商品頁，雪国アグリ（Yukiguni Agri）"
+  },
+  {
+   "index": 49,
+   "product": "Ginbis 迷你蘆筍餅乾綜合禮盒（黑芝麻／黑巧／白巧，24袋）",
+   "file": "49-ginbis-mini-asparagus-assort.jpg",
+   "image_url": "http://www.costco.co.jp/medias/sys_master/images/h7e/ha3/291442733056030.jpg",
+   "source_page": "https://www.costco.co.jp/Food-Beverage/Cookies-Biscuit/Mini-Asparagus-Biscuits-3-Kind-Assortment-36-packs/p/63341",
+   "source_type": "costco",
+   "downloaded": true,
+   "note": "Costco Japan 官網為同款「3種アソート」（黑芝麻/巧克力/白巧克力）現行 36 袋版；直播販售為 24 袋（應為同系列早期/不同批次包裝），非憑空替代"
+  }
+ ]
+}
